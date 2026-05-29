@@ -11,8 +11,8 @@
 # so users won't see the "unidentified developer" Gatekeeper prompt.
 
 cask "moyushutan" do
-  version "0.2.0"
-  sha256 "884d467e10ee3b74e6ae2855985154a72887db30da21be9f2fbcc9b91b85b79e"
+  version "1.0.0"
+  sha256 "80e3350b765866ccdefa87e2b90fa8c7d5786879bb91963547aa93dcd4e5db38"
 
   url "https://github.com/WeirdoMeng/Reader-Mac/releases/download/v#{version}/MoyuShutan-#{version}.dmg"
   name "摸鱼书摊"
